@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to right,red,green,yellow);}
+    body{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h1,h2{
+        font-size:xx-large;
+        text-decoration: underline;
+        font-style: italic;
+    }

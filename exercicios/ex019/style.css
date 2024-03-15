@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:linear-gradient(#10ABB4,#00939C,#004C50);
+    font: normal 16px arial,verdana,serif;
+    text-align: right;
+}
+h1
+{
+    text-align: center;
+    color: #000000
+    
+}
+h2{
+    text-align: left;
+    color:rgb(0, 0, 0);
+}
+p{
+    text-align:justify;
+    text-indent: 30px;
+}
